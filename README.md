@@ -4,7 +4,7 @@
 </h1>
 <h2 align="center">
 
-
+  
 
 <p align="center">
 
@@ -46,7 +46,7 @@ Though aplication we can:
 
 - register and search devs with nickname github
 - geolocation
-- 
+
 
 ##  ⚙️ Some Techs:
 
@@ -119,7 +119,7 @@ yarn start or yarn dev
 <h4 align="center">
   ---
 
-Made with ♥ by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/arthur-lima-294ab0103/)
+Made with ♥   by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/arthur-lima-294ab0103/)
 </h4>
 
 ---
