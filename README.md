@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  🔎 devRadar - Search devs by techs
+  🔎  devRadar - Search devs by techs
 </h1>
 <h2 align="center">
 
-<br/>
+
 
 <p align="center">
 
@@ -22,9 +22,7 @@
 
 <br/>
 
-<blockquote align="center">
-  App mobile for search devs around the world
-</blockquote>
+
 
 
 <img src="https://raw.githubusercontent.com/thurdelima/node-react-native-searchDevs/master/fr.png" >
@@ -33,16 +31,16 @@
 </h2>
 
 <blockquote align="center">
-  System web for register devs
+  App mobile for search devs around the world. System web for register devs
 </blockquote>
 
 <hr/>
 
-## 💡 About project:
+##  💡 About project:
 
 Backend with authentication and some routes for register and search devs, app mobile for search devs registered around the world. I use github API for search devs and register in system web.
 
-## 🔥 Functions:
+##  🔥 Functions:
 
 Though aplication we can:
 
@@ -50,16 +48,16 @@ Though aplication we can:
 - geolocation
 - 
 
-## ⚙️ Some Techs:
+##  ⚙️ Some Techs:
 
-🖥️ Backend:
+ 🖥️  Backend:
 
 - axios
 - express
 - mongoose
 - socket.io
 
-💻 Front:
+ 💻  Front:
 
 - testing-library/jest-dom
 - testing-library/user-event
@@ -69,7 +67,7 @@ Though aplication we can:
 - react-dom
 - react-scripts
 
-📱 Mobile:
+ 📱  Mobile:
 
 - react-native-community/masked-view
 - axios
